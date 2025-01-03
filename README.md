@@ -71,8 +71,11 @@ Contributing
 Contributions are welcome! Please fork the repository and create a pull request for review.
 ________________________________________
 Contact
+
 For further details or issues, contact:
+
 •	Email: piyushbhandarkar9@gmail.com
+
 •	GitHub: https://github.com/thepiyush09/calender-app
 
 
